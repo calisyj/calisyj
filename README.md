@@ -5,7 +5,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calisyj&layout=compact&theme=nord&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **calisyj/calisyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
