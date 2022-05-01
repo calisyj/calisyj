@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome. 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcalisyj%2Fcalisyj%2Fblob%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://www.instagram.com/calis_po_hwnag/">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcalisyj%2Fcalisyj%2Fblob%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://www.instagram.com/calis_po_hwang/">
     <img 
         src="http://img.shields.io/badge/-calis_po_hwang-222222?style=flat&logo=Instagram&link=https://www.instagram.com/calis_po_hwang/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
