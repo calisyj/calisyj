@@ -6,7 +6,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-## 관심 분야:  데이터 엔지니어링(Data Engineering), 데이터 분석(Data Analysis), 머신 러닝(Machine Learning)
+## 관심 분야
+### 데이터 엔지니어링(Data Engineering), 데이터 분석(Data Analysis), 머신 러닝(Machine Learning)
 
 ## 학력
 - 한동대학교 2024년 2월 졸업 예정 (2017.03~2024.02 포항, 대한민국)
@@ -20,9 +21,9 @@
 
 ## 경력 & 경험
 - (2022.06 ~ ing, 포항, 대한민국) **DA-Lab(Data Analysis Lab)**   
-**한동대학교 ict창업학부 데이터 분석 특화 학회 활동**
-데이터 분석, 머신 러닝 관련 기술 스터디 진행
-(관련 프로젝트 생성 예정)
+**한동대학교 ict창업학부 데이터 분석 특화 학회 활동**  
+데이터 분석, 머신 러닝 관련 기술 스터디 진행  
+(관련 프로젝트는 추후 진행 예정)
 
 - 추가 예정
 
