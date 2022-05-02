@@ -6,7 +6,36 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
- 
+## 관심 분야: DE(Data Engineering), ML(Machine Learning), DA(Data Analysis)
+
+## 현재 진행중인 프로젝트 & 공부
+- Machine Learning PoC (스타트업에 컨택하여 기업이 원하는 AI프로젝트 주제 정의하고 모델링 컨셉 증명) 
+- Algorithm study
+- Machine learning study
+
+## 경력 & 경험
+- 추가 예정
+
+## 선호 언어
+- Python
+
+## 취득 자격증
+- 추가 예정
+
+## 주요 수강 현황
+|학기|구분|과목|학점|
+|----|----|-------|---|
+**|22-1|전공필수|ICT문제해결기법|3|**
+**|22-1|전공필수|Machine learning for entrepren eurship|3|**
+|22-1|전공필수|확률론|3|
+|21-2|전공필수|미분방정식과 응용|3|
+**|21-2|전공필수|데이터 마이닝 실습|3|
+|21-2|전공필수|ICT공학수학|3|
+|21-2|전공필수|데이터 관리와 활용|3|
+|21-1|전공필수|프로그래밍I|3|
+|21-1|전공필수|데이터과학|3|**
+|21-1|전공필수|실해석학|3|
+|21-1|전공필수|통계적 방법론|3|
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calisyj&layout=compact&theme=nord&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
