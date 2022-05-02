@@ -6,12 +6,12 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-## 관심 분야: DE(Data Engineering), ML(Machine Learning), DA(Data Analysis)
+## 관심 분야:  DE(Data Engineering), ML(Machine Learning), DA(Data Analysis)
 
 ## 현재 진행중인 프로젝트 & 공부
-- Machine Learning PoC (스타트업에 컨택하여 기업이 원하는 AI프로젝트 주제 정의하고 모델링 컨셉 증명) 
-- Algorithm study
-- Machine learning study
+- Machine Learning PoC :  스타트업에 컨택하여 기업이 원하는 AI프로젝트 주제 정의하고 모델링 컨셉 증명
+- Algorithm study  : 기업 인턴 및 입사를 위한 코딩테스트 준비
+- Machine learning study 
 
 ## 경력 & 경험
 - 추가 예정
