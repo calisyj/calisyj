@@ -7,7 +7,9 @@
 </a>
 
 ## 관심 분야
-### 데이터 엔지니어링(Data Engineering), 데이터 분석(Data Analysis), 머신 러닝(Machine Learning)
+### 데이터 엔지니어링(Data Engineering)
+### 데이터 분석(Data Analysis)
+### 머신 러닝(Machine Learning)
 
 ## 학력
 - 한동대학교 2024년 2월 졸업 예정 (2017.03~2024.02 포항, 대한민국)
