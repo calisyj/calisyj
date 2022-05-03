@@ -13,7 +13,7 @@
 
 
 ## 현재 진행중인 프로젝트 & 공부
-- Machine Learning PoC :  **스타트업에 컨택**하여 기업이 원하는 AI프로젝트 주제 정의하고 모델링 컨셉 증명
+- Vision AI Modeling : (Machine Learning PoC)  **스타트업에 컨택**하여 기업이 원하는 AI프로젝트 주제 정의하고 모델링 컨셉 증명
 - Algorithm study  : 기업 인턴 및 입사를 위한 코딩테스트 준비
 - Machine learning study 
 
