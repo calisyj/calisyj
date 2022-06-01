@@ -9,7 +9,6 @@
 
 ## 관심 분야
 ### 데이터 엔지니어링(Data Engineering)
-### 데이터 분석(Data Analysis)
 ### 머신 러닝(Machine Learning)
 
 
