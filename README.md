@@ -13,9 +13,11 @@
 
 
 ## 현재 진행중인 프로젝트 & 공부
-- Vision AI Modeling : (Machine Learning PoC)  **스타트업에 컨택**하여 기업이 원하는 AI프로젝트 주제 정의하고 모델링 컨셉 증명
-- Algorithm study  : 기업 인턴 및 입사를 위한 코딩테스트 준비
-- Machine learning study 
+- Vision AI Modeling : 도로 주행시 도로 위험도 산출
+- 2022 유플러스 AI Ground 유플러스 아이들나라 콘텐츠 추천 AI 모델 개발 참여
+~- Vision AI Modeling : (Machine Learning PoC)  **스타트업에 컨택**하여 기업이 원하는 AI프로젝트 주제 정의하고 모델링 컨셉 증명~  
+- Algorithm study  : 기업 인턴 및 입사를 위한 코딩테스트 준비  
+~- Machine learning study~
 
 ## 학력
 - 한동대학교 2024년 2월 졸업 예정  
