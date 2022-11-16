@@ -40,7 +40,7 @@
 - C++
 
 ## 취득 자격증
-- Google Analytics Individual Qualification(GAIQ) 2022-11-16~2023-11-16
+- Google Analytics Individual Qualification(GAIQ) 2022.11.16~2023.11.16, Google
 
 
 ## 주요 수강 현황
