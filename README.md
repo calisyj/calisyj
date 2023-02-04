@@ -15,6 +15,7 @@
 - ~Vision AI Modeling : 도로 주행시 도로 위험도 산출~
 - ~게임 개발 (connect 4)~
 - ~Vision AI Modeling : (Machine Learning PoC)  **스타트업에 컨택**하여 기업이 원하는 AI프로젝트 주제 정의하고 모델링 컨셉 증명~  
+- Smartfarm AI modeling
 - Algorithm study  : 기업 인턴 및 입사를 위한 코딩테스트 준비  
 
 ## 학력
